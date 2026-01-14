@@ -1,0 +1,13 @@
+[global]
+    origin = top-center
+    offset = (0, 1)
+    width = 80
+    height = (60, 80)
+    font = JetBrains Mono Nerd Font Bold 18
+    corner_radius = 24
+    corners = all
+    padding = 0
+    frame_width = 1
+    alignment = center
+    vertical_alignment = center
+    progress_bar = false
